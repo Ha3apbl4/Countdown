@@ -154,6 +154,7 @@ body {
 }
 @media (max-width: 425px) {
 	.header__title {
+		margin: 12px 0 8px;
 		font-size: 80px;
 		margin-bottom: 0;
 	}
@@ -170,7 +171,7 @@ body {
 		align-items: center;
 	}
 	.counting__item-box {
-		padding: 0 0 60px;
+		padding: 0 0 30px;
 	}
 	.main__title {
 		font-size: 24px;
